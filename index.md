@@ -21,4 +21,4 @@ I am an undergraduate majoring in Intelligent Science and Technology in the Scho
 - **[May. 2024]** Three of our papers have been accepted by ICMEW2024.
 - **[Jun. 2019]** Our Skeleton2Point pitching at the MM conference.
   
-{% include_relative _includes/publications.md %}
+{% include_relative ./_includes/publications.md %}
