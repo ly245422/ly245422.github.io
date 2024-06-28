@@ -2,9 +2,45 @@ main:
 
   - title: "Skeleton2Point: Recognizing Skeleton-Based Actions as Point Clouds"
     authors: Baiqiao Yin, Jiaying Lin, Jiajun Wen, <strong>Yue Li</strong>, Jinfu Liu, Mengyuan Liu2
-    conference_short: MM
-    conference: ACM Multimedia
+    conference_short: MM2024
+    conference: ACM Multimedia 2024
     pdf: https://github.com/yyyybq/Skeleton2Point/blob/main/Skeleton2Point.pdf
     code: https://github.com/ly245422/Skeleton2Point
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/S2P.png
     notes: Under review
+
+  - title: "HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition"
+    authors: Jinfu Liu, Baiqiao Yin, Jiaying Lin, Jiajun Wen, <strong>Yue Li</strong>, Mengyuan Liu
+    conference_short: ICMEW2024
+    conference: IEEE International Conference on Multimedia and Expo Workshop 2024
+    pdf: https://arxiv.org/pdf/2404.15719
+    code: https://github.com/liujf69/ICMEW2024-Track10
+    image: ./assets/img/HDBN.png
+    notes: Accepted
+
+  - title: "TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation"
+    authors: Junhao Cheng, Baiqiao Yin, Kaixin Cai, Minbin Huang, Hanhui Li, Yuxin He, Xi Lu, <strong>Yue Li</strong>, Yifei Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang
+    conference_short: ECCV 2024
+    conference: European Conference on Computer Vision 2024
+    pdf: https://arxiv.org/pdf/2404.18919
+    code: https://github.com/ly245422/Theatergen
+    image: ./assets/img/TheaterGen.png
+    notes: Under review
+
+  - title: "SemiPL: A Semi-supervised Method for Event Sound Source Localization"
+    authors: <strong>Yue Li</strong>, Baiqiao Yin, Jinfu Liu, Jiajun Wen, Jiaying Lin, Mengyuan Liu
+    conference_short: ICMEW2024
+    conference: IEEE International Conference on Multimedia and Expo Workshop 2024
+    pdf: https://arxiv.org/pdf/2404.19615
+    code: https://github.com/ly245422/SSPL
+    image: ./assets/img/SemiPL.png
+    notes: Accepted
+
+  - title: "SFMViT: SlowFast Meet ViT in Chaotic World"
+    authors: Jiaying Lin, Jiajun Wen, Mengyuan Liu, <strong>Yue Li</strong>, Jinfu Liu, Baiqiao Yin
+    conference_short: ICMEW2024
+    conference: IEEE International Conference on Multimedia and Expo Workshop 2024
+    pdf: https://arxiv.org/pdf/2404.16609
+    code: https://github.com/ly245422/https://github.com/ly245422/SlowFast-Meet-ViT
+    image: ./assets/img/SlowFast.png
+    notes: Accepted
