@@ -4,20 +4,23 @@ layout: homepage
 
 ## About Me
 
-I am an  undergraduate at ...
+I am an undergraduate majoring in Intelligent Science and Technology in the School of Intelligent Engineering, Sun Yat-sen University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** pose estimation
+- **Generate AI:** stable diffusion
+- **Natural Language Processing:** machine translation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[Mar. 2024]** Our TheaterGen pitching at the ECCV conference.
+- **[Apr. 2024]** We won the ICME Grand Challenge 2024 track 1 championship.
+- **[Apr. 2024]** We won the ICME Grand Challenge 2024 track 4 championship.
+- **[Apr. 2024]** We won 3rd place in the ICME 2024 Grand Challenge, Track 10.
+- **[May. 2024]** Three of our papers have been accepted by ICMEW2024.
+- **[Jun. 2019]** Our Skeleton2Point pitching at the MM conference.
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
