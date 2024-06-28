@@ -22,5 +22,3 @@ I am an undergraduate majoring in Intelligent Science and Technology in the Scho
 - **[Jun. 2019]** Our Skeleton2Point pitching at the MM conference.
   
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
