@@ -1,6 +1,6 @@
 main:
 
-  - title: Skeleton2Point: Recognizing Skeleton-Based Actions as Point Clouds
+  - title: "Skeleton2Point: Recognizing Skeleton-Based Actions as Point Clouds"
     authors: <strong>123</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: MM
     conference: ACM Multimedia
