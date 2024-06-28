@@ -20,7 +20,7 @@ main:
 
   - title: "TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation"
     authors: Junhao Cheng, Baiqiao Yin, Kaixin Cai, Minbin Huang, Hanhui Li, Yuxin He, Xi Lu, <strong>Yue Li</strong>, Yifei Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang
-    conference_short: ECCV 2024
+    conference_short: ECCV2024
     conference: European Conference on Computer Vision 2024
     pdf: https://arxiv.org/pdf/2404.18919
     code: https://github.com/ly245422/Theatergen
