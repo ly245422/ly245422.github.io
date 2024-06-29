@@ -9,7 +9,6 @@ main:
     notes: Under review
 
   - title: "HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition"
-    authors: Jinfu Liu, Baiqiao Yin, Jiaying Lin, Jiajun Wen, <strong>Yue Li</strong>, Mengyuan Liu
     conference_short: ICMEW2024
     conference: IEEE International Conference on Multimedia and Expo Workshop 2024
     pdf: https://arxiv.org/pdf/2404.15719
@@ -18,7 +17,6 @@ main:
     notes: Accepted
 
   - title: "TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation"
-    authors: Junhao Cheng, Baiqiao Yin, Kaixin Cai, Minbin Huang, Hanhui Li, Yuxin He, Xi Lu, <strong>Yue Li</strong>, Yifei Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang
     conference_short: ECCV2024
     conference: European Conference on Computer Vision 2024
     pdf: https://arxiv.org/pdf/2404.18919
@@ -27,7 +25,6 @@ main:
     notes: Under review
 
   - title: "SemiPL: A Semi-supervised Method for Event Sound Source Localization"
-    authors: <strong>Yue Li</strong>, Baiqiao Yin, Jinfu Liu, Jiajun Wen, Jiaying Lin, Mengyuan Liu
     conference_short: ICMEW2024
     conference: IEEE International Conference on Multimedia and Expo Workshop 2024
     pdf: https://arxiv.org/pdf/2404.19615
@@ -36,7 +33,6 @@ main:
     notes: Accepted
 
   - title: "SFMViT: SlowFast Meet ViT in Chaotic World"
-    authors: Jiaying Lin, Jiajun Wen, Mengyuan Liu, <strong>Yue Li</strong>, Jinfu Liu, Baiqiao Yin
     conference_short: ICMEW2024
     conference: IEEE International Conference on Multimedia and Expo Workshop 2024
     pdf: https://arxiv.org/pdf/2404.16609
