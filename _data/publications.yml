@@ -1,7 +1,6 @@
 main:
 
   - title: "Skeleton2Point: Recognizing Skeleton-Based Actions as Point Clouds"
-    authors: Baiqiao Yin, Jiaying Lin, Jiajun Wen, <strong>Yue Li</strong>, Jinfu Liu, Mengyuan Liu2
     conference_short: MM2024
     conference: ACM Multimedia 2024
     pdf: https://github.com/yyyybq/Skeleton2Point/blob/main/Skeleton2Point.pdf
